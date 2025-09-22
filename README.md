@@ -1,4 +1,4 @@
-# Project Presentations
+# EDA Project Presentations
 ## 1. Airbnb in Texas
 
 Author: Nguyen Binh Nam
