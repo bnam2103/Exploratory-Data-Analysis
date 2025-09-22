@@ -1,8 +1,6 @@
 # EDA Project Presentations
 ## 1. Airbnb in Texas
 
-Author: Nguyen Binh Nam
-
 ### Description
 
 This presentation explores the Texas Airbnb dataset to understand how customers can find cost-efficient and high-quality listings. It analyzes the relationships between price, quality, location, and time. The study uses customer ratings and reviews per month as quality metrics and categorizes listings into different price ranges.
@@ -19,8 +17,6 @@ This presentation explores the Texas Airbnb dataset to understand how customers 
 
 ## 2. EDA 2021 Kaggle: ML & Coding Experience
 
-Author: Nguyen Binh Nam
-
 ### Description
 
 This project uses the Kaggle 2021 Machine Learning & Data Science Survey dataset, which includes 25,973 responses from the global data science community. The analysis focuses on identifying factors that influence coding experience, including gender, location, age, job type, and programming languages.
@@ -36,8 +32,6 @@ This project uses the Kaggle 2021 Machine Learning & Data Science Survey dataset
 - Draw insights into trends in data science education and workforce composition.
 
 ## 3. Body Fat Prediction
-
-Author: Nguyen Binh Nam
 
 ### Description
 
