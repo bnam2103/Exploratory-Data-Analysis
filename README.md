@@ -7,7 +7,7 @@ Author: Nguyen Binh Nam
 
 This presentation explores the Texas Airbnb dataset to understand how customers can find cost-efficient and high-quality listings. It analyzes the relationships between price, quality, location, and time. The study uses customer ratings and reviews per month as quality metrics and categorizes listings into different price ranges.
 
-Goals
+### Goals
 
 - Identify whether higher prices lead to better quality Airbnbs.
 
@@ -25,7 +25,7 @@ Author: Nguyen Binh Nam
 
 This project uses the Kaggle 2021 Machine Learning & Data Science Survey dataset, which includes 25,973 responses from the global data science community. The analysis focuses on identifying factors that influence coding experience, including gender, location, age, job type, and programming languages.
 
-Goals
+### Goals
 
 - Determine how demographics (gender, country, age) correlate with years of coding experience.
 
@@ -37,13 +37,13 @@ Goals
 
 ## 3. Body Fat Prediction
 
-### Author: Nguyen Binh Nam
+Author: Nguyen Binh Nam
 
-Description
+### Description
 
 This presentation examines a small dataset on body fat, density, and body measurements (e.g., abdomen size, height, weight). The project applies regression techniques to predict body fat percentages based on body measurements, performing feature engineering, outlier removal, and model comparison.
 
-Goals
+### Goals
 
 - Build predictive models for body fat using various regression methods.
 
